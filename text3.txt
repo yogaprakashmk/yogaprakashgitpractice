@@ -1,2 +1,0 @@
-This is tex3.txt file
-I need to modify this file
